@@ -29,6 +29,7 @@ pytz==2023.3.post1
 requests==2.31.0
 six==1.16.0
 SQLAlchemy==2.0.24
+gunicorn
 sqlparse==0.4.4
 tzdata==2023.4
 urllib3==2.1.0
